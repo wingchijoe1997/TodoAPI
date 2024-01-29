@@ -8,5 +8,6 @@
         public bool IsComplete { get; set; }
 
         public string quiz {get; set;}
+            public string quiz2 {get; set;}
     }
 }
